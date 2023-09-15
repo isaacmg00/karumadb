@@ -1,0 +1,14 @@
+.card {
+    background-color: var(--secondary-color);
+}
+
+input[type = text], input[type = email] {
+    font-size: 13px;
+}
+
+input {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 50%;
+}
